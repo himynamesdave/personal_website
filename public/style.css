@@ -72,6 +72,10 @@ p .graphic__emblem {
 	background-image: url('splunk-logo.png');
 }
 
+.graphic__emblem#dynatrace {
+	background-image: url('dynatrace-logo.png');
+}
+
 .graphic__emblem#travelstatsman {
 	background-image: url('travelstatsman-logo.png');
 }
