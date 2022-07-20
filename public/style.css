@@ -92,6 +92,10 @@ p .graphic__emblem {
 	background-image: url('eclecticiq-logo.png');
 }
 
+.graphic__emblem#signalscorps {
+	background-image: url('signalscorps-logo.png');
+}
+
 .images {
 	display: flex;
 	flex-direction: row;
