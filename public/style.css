@@ -21,7 +21,7 @@ body {
 }
 
 p {
-	line-height: 120px;
+	line-height: 70px;
 	cursor: default;
 }
 
@@ -155,7 +155,7 @@ p .graphic__emblem {
 
 	p {
 		font-size: 18px;
-		line-height: 83px;
+		line-height: 60px;
 	}
 
 	p .graphic {
