@@ -96,6 +96,15 @@ p .graphic__emblem {
 	background-image: url('signalscorps-logo.png');
 }
 
+.graphic__emblem#instagram {
+	background-image: url('instagram-logo.png');
+}
+
+.graphic__emblem#twitter {
+	background-image: url('twitter-logo.png');
+}
+
+
 .images {
 	display: flex;
 	flex-direction: row;
